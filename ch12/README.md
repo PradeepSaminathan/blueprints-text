@@ -12,6 +12,7 @@ View Jupyter notebook on
 [[Colab](https://colab.research.google.com/github/blueprints-for-text-analytics-python/blueprints-text/blob/master/ch12/Knowledge_Graph.ipynb)].  
 
 We have an adjusted version of the notebook working with spaCy 3:
+#please note that neuralcoref doesn't support spaCy 3.0 yet.
 [[Github](Knowledge_Graph_spaCy3.ipynb)] or
 [[nbviewer](https://nbviewer.ipython.org/github/blueprints-for-text-analytics-python/blueprints-text/blob/master/ch12/Knowledge_Graph_spaCy3.ipynb)].
 
